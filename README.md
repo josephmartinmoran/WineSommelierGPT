@@ -11,3 +11,4 @@ Reference:
 https://github.com/Sentdex/ChatGPT-API-Basics
 https://www.youtube.com/watch?v=c-g6epk3fFE&t=879s
 
+![img.png](img.png)
